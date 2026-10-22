@@ -1,0 +1,52 @@
+﻿[
+    {
+        "id":  "EST-335011",
+        "timestamp":  "2026-10-22T05:47:32.985Z",
+        "displayDate":  "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٧ ص",
+        "userType":  "زائر بدون حساب",
+        "isRegistered":  false,
+        "participantName":  "Ali",
+        "province":  "كربلاء المقدسة",
+        "ageGroup":  "18 - 30 عاماً",
+        "visitFrequency":  "أسبوعياً (زيارة مستمرة)",
+        "ratings":  {
+                        "q_minbar_topics":  5,
+                        "q_minbar_timing":  5,
+                        "q_minbar_scholars":  5,
+                        "q_fatwa_access":  5,
+                        "q_fatwa_clarity":  5,
+                        "q_fatwa_online":  5,
+                        "q_courses_youth":  5,
+                        "q_pub_quality":  5,
+                        "q_digital_content":  5,
+                        "q_overall_rating":  5
+                    },
+        "recommend":  "نعم بالتأكيد",
+        "suggestions":  ""
+    },
+    {
+        "id":  "EST-896620",
+        "timestamp":  "2026-10-21T11:13:40.601Z",
+        "displayDate":  "٢١‏/١٠‏/٢٠٢٦، ٢:١٣ م",
+        "userType":  "زائر بدون حساب",
+        "isRegistered":  false,
+        "participantName":  "Ahmed Al-Karbalai",
+        "province":  "كربلاء المقدسة",
+        "ageGroup":  "18 - 30 عاماً",
+        "visitFrequency":  "أسبوعياً (زيارة مستمرة)",
+        "ratings":  {
+                        "q_minbar_topics":  5,
+                        "q_minbar_timing":  5,
+                        "q_minbar_scholars":  5,
+                        "q_fatwa_access":  5,
+                        "q_fatwa_clarity":  5,
+                        "q_fatwa_online":  5,
+                        "q_courses_youth":  5,
+                        "q_pub_quality":  5,
+                        "q_digital_content":  5,
+                        "q_overall_rating":  5
+                    },
+        "recommend":  "نعم بالتأكيد",
+        "suggestions":  ""
+    }
+]
